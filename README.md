@@ -2,6 +2,28 @@
 
 An open-source, lightweight web application built to allow students, kids, or public users to experience the magic of AI Image Generation **without needing to create accounts or use their own API keys.** Perfect for classrooms, workshops, or just sharing a safe AI environment with friends. Powered by Google's Gemini API.
 
+## 📸 Screenshots
+
+### Student Interface
+
+<p align="center">
+  <img src="./screenshots/student_preview.png" alt="AI Studio Login Interface" width="100%">
+</p>
+
+<p align="center">
+  <img src="./screenshots/student_preview.png" alt="AI Studio Student Interface" width="100%">
+</p>
+
+<p align="center">
+  <img src="./screenshots/student_preview_darkmode.png" alt="AI Studio Student Interface Darkmode" width="100%">
+</p>
+
+### Teacher / Admin Dashboard
+
+<p align="center">
+  <img src="./screenshots/admin_preview.png" alt="AI Studio Admin Dashboard" width="100%">
+</p>
+
 ## ✨ Features
 
 - **No Accounts Required:** Users simply enter their name and start generating immediately.
