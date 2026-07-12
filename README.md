@@ -7,7 +7,7 @@ An open-source, lightweight web application built to allow students, kids, or pu
 ### Student Interface
 
 <p align="center">
-  <img src="./screenshots/student_preview.png" alt="AI Studio Login Interface" width="100%">
+  <img src="./screenshots/log_in.png" alt="AI Studio Login Interface" width="100%">
 </p>
 
 <p align="center">
